@@ -1,7 +1,6 @@
 # autolinked
 LinkedIn Automation Script automates job applications on LinkedIn using Selenium WebDriver. It handles login, job search, and application processes. Configured via environment variables for sensitive information.
 
-Certainly! Here’s a concise version of the README.md file for your LinkedIn automation script:
 
 markdown
 Copy code
